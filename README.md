@@ -8,3 +8,5 @@ Here you will find all the necessary files to laser cut both the wooden and acry
 
 ## Custom Board files
 Last but not less the Gerber files will allow you to order or make your own board if you fell like SMD soldering is your thing.
+
+![Custom Board](https://github.com/diybarbot/hardware/blob/master/Custom%20Board%20Files/DIYBar.png)
